@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG AUUID="24b4b1e1-7a89-45f6-858c-242cf53b5bdb"
-ARG CADDYIndexPage="https://github.com/AYJCSGM/mikutap/archive/master.zip"
+ARG AUUID="e463c739-8769-43c2-ad7a-28f66728f75b"
+ARG CADDYIndexPage="https://github.com/xmkxabc/CVE-2021-44228-Scanner/archive/refs/tags/v1.3.2.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=80
 
